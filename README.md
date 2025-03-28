@@ -1,16 +1,21 @@
-## Hi there 👋
-
+## Welcome to my GitHub 👋
+- 🌱 I’m currently learning Cryptography, Networking, Cloud Computing
+- 🔭 I’m currently working on [Customer Support Chatbot](https://github.com/UXLY-Chatbot) <br>
+- 📫 How to reach me: <br>
+  - [LinkedIn](www.linkedin.com/in/vincent-liu003)
+  - Email: vtliului@gmail.com
+  - [Website](https://personal-website-vincent-liu.vercel.app/) <br>
+- 💬 Learning Full Stack Web Dev (Private Repo)
+- 😄 Pronouns: He / Him <br>
+- ⚡ Fun fact: Adeptus Custodes might not be OP... <br>
 <!--
-**viwsliu/viwsliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
 -->
