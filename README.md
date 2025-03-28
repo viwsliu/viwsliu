@@ -5,7 +5,7 @@
   - [LinkedIn](www.linkedin.com/in/vincent-liu003)
   - Email: vtliului@gmail.com
 - 🎨 My Website: [Here](https://personal-website-vincent-liu.vercel.app/) <br>
-- 💬 Learning Full Stack Web Dev (Private Repo)
+- 💬 Getting the hang of Full-Stack Web Dev (Private Repo)
 - 😄 Pronouns: He / Him <br>
 - ⚡ Fun fact: Adeptus Custodes might not be OP... <br>
 <!--
