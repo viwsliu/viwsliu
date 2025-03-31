@@ -6,7 +6,6 @@
   - Email: vtliului@gmail.com
 - 🎨 My Website: [Here](https://personal-website-vincent-liu.vercel.app/) <br>
 - 💬 Getting the hang of Full-Stack Web Dev (Private Repo)
-- 😄 Pronouns: He / Him <br>
 - ⚡ Fun fact: Currently building a Custodes WH40k Army! <br>
 <!--
 Here are some ideas to get you started:
