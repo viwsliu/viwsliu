@@ -7,9 +7,9 @@
 - 💬 Getting a hang of Full-Stack Web Dev
 - ⚡ Fun fact: Currently building a Custodes WH40k Army! <br>
 
-- Additional Projects:
-Cryptography Implementations: [https://github.com/viwsliu/cryptography_projects] <br>
-Notesheet Editor (NEd): [https://github.com/sopwithcamel110/NED.git] <br>
+- Additional Projects: <br>
+-- Cryptography Implementations: [https://github.com/viwsliu/cryptography_projects] <br>
+-- Notesheet Editor (NEd): [https://github.com/sopwithcamel110/NED.git] <br>
 <!--
 
 
