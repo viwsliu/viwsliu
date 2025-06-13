@@ -10,6 +10,7 @@
 - Additional Projects: <br>
   - Cryptography Implementations: [https://github.com/viwsliu/cryptography_projects] <br>
   - Notesheet Editor (NEd): [https://github.com/sopwithcamel110/NED.git] <br>
+  - Multi-Tool Customer Service Chatbot [https://github.com/UXLY-Chatbot/uxly] <br>
 <!--
 
 
