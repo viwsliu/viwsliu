@@ -1,6 +1,6 @@
 ## Welcome to my GitHub
 -  Computer Science @ UC Santa Cruz (Graduated 2025)
--  Currently learning: Cryptography, Machine Learning, and Neural Networks <br>
+-  Currently learning: Cryptography, AI Agents, and Neural Networks <br>
 - [My Website](https://vincent-wei-sheng-liu.com/) <br>
 -  Getting a hang of Full-Stack Web Development
 
